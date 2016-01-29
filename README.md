@@ -1,0 +1,2 @@
+# NoQ
+hate OICQ
