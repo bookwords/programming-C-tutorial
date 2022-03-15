@@ -1,2 +1,1 @@
-# NoQ
-hate OICQ
+Programming C tutorial.
